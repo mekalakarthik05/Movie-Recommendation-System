@@ -85,7 +85,4 @@ Titan A.E.
 
 ---
 
-## 👨‍💻 Author
-Developed by **Karthik Yadav**  
-Enthusiastic and self-motivated student with strong programming and problem-solving skills 🚀
 
